@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <heros>
+    <hero id="0 ">
+      <name>错误的</name>
+      <age>321</age>
+    </hero>
+    <hero id="1 ">
+      <name>Awda</name>
+      <age>135</age>
+    </hero>
+    <hero id="2 ">
+      <name>啊我的娃</name>
+      <age>54</age>
+    </hero>
+  </heros>
+</root>

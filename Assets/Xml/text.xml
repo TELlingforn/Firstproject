@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+    <heros>
+        <hero id="1">
+            <name>阿松大</name>
+            <name>wawdaw</name>
+            <age>1564</age>
+        </hero>
+        
+        <hero id="2">
+            <name>万达文华</name>
+            <age>15</age>
+        </hero>
+        
+        <hero id="3">
+            <name>我说的收到</name>
+            <age>1564</age>
+        </hero>
+    </heros>
+</root>
