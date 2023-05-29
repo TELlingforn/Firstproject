@@ -12,7 +12,7 @@ public class MainController : UIController
 
     public void ShowMenue()
     {
-        Managers.m_UI.SetActive("MenuController",true);
+        Managers.m_UI.SetActive("MenuController",true);//
         gameObject.SetActive(false);
     }
     // Update is called once per frame
