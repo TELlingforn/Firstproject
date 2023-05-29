@@ -8,7 +8,7 @@ public class UIManger1 : MangerBase
     public Dictionary<string, UIController> UIControllers = new Dictionary<string, UIController>();
 
     //让指定的controller不活动
-    public void SetActive(string controllerName, bool active)
+    public void SetActive(string controllerName, bool active)//
     {
         transform.Find(controllerName).gameObject.SetActive(active);
     }
